@@ -1,2 +1,4 @@
 注意用npm！！！.标记
 node_modules
+docs/.vuepress/.cache
+docs/.vuepress/.temp
