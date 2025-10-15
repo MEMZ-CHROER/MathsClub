@@ -36,6 +36,7 @@ export const routes = Object.fromEntries([
   ["/tag/tag-e/", { loader: () => import(/* webpackChunkName: "tag_tag-e_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/tag/tag-e/index.html.js"), meta: {"title":"Tag tag E"} }],
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"Articles"} }],
   ["/timeline/", { loader: () => import(/* webpackChunkName: "timeline_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/timeline/index.html.js"), meta: {"title":"Timeline"} }],
+  ["/paper/", { loader: () => import(/* webpackChunkName: "paper_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/paper/index.html.js"), meta: {"title":"试卷题库"} }],
 ]);
 
 if (import.meta.webpackHot) {

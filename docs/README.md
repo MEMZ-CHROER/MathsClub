@@ -1,14 +1,14 @@
 ---
 home: true
 title: 天津市汇文中学数学社团
-heroImage: ./hero.png
+heroImage: https://img.baidu.re/i/2025/10/10u1e7e.png
 actions:
   - text: 课堂时政
     link: /activities/
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: 试卷题库
+    link: /paper/
     type: secondary
 
 features:

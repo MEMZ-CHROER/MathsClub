@@ -13,7 +13,7 @@ export default defineUserConfig({
   description: '汇文中学数学社团--UnOfficial Made By 刘熙宇',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://img.baidu.re/i/2025/10/10y8zb4.png',
 
     navbar: [
       '/',
