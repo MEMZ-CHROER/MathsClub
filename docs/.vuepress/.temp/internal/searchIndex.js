@@ -116,6 +116,43 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
+    "title": "试卷题库",
+    "headers": [
+      {
+        "level": 2,
+        "title": "2025.10.15日",
+        "slug": "_2025-10-15日",
+        "link": "#_2025-10-15日",
+        "children": [
+          {
+            "level": 3,
+            "title": "开团第一张卷子",
+            "slug": "开团第一张卷子",
+            "link": "#开团第一张卷子",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251015.pdf",
+            "slug": "下载链接-251015-pdf",
+            "link": "#下载链接-251015-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251015.pdf",
+            "slug": "备用链接-251015-pdf",
+            "link": "#备用链接-251015-pdf",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/paper/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Archive Article1",
     "headers": [
       {
@@ -596,39 +633,9 @@ export const SEARCH_INDEX = [
     "extraFields": []
   },
   {
-    "title": "试卷题库",
-    "headers": [
-      {
-        "level": 2,
-        "title": "2025.10.15日",
-        "slug": "_2025-10-15日",
-        "link": "#_2025-10-15日",
-        "children": [
-          {
-            "level": 3,
-            "title": "开团第一张卷子",
-            "slug": "开团第一张卷子",
-            "link": "#开团第一张卷子",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "下载链接：251015.pdf",
-            "slug": "下载链接-251015-pdf",
-            "link": "#下载链接-251015-pdf",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "备用链接：251015.pdf",
-            "slug": "备用链接-251015-pdf",
-            "link": "#备用链接-251015-pdf",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/paper/",
+    "title": "",
+    "headers": [],
+    "path": "/LICENSE/",
     "pathLocale": "/",
     "extraFields": []
   }

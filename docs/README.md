@@ -10,24 +10,18 @@ actions:
   - text: 试卷题库
     link: /paper/
     type: secondary
+  
+  - text: 查看许可协议
+    link: /LICENSE/
+    type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: 关于我们
+    details: 一个由25名学生，2位老师组成的数学社团，提升学生的数学能力。
+  - title: 主讲
+    details: 天津市汇文中学数学教师，尤老师
+  - title: 联系我们
+    details: 邮箱：lxy130523@outlook.com  微信：LxyCoding2147483647
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: MIT Licensed | Copyright © 1980 天津市汇文中学 , Copyright © 2025 Liuxiyu's Community All rights reserved.
 ---
-
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
-
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
