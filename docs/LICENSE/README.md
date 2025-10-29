@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 1980 天津市汇文中学 , 2025 Liuxiyu's Community
+Copyright (c) 1890 天津市汇文中学 , 2025 Liuxiyu's Community
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

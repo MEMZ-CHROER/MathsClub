@@ -5,6 +5,7 @@ export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"G:/Maths/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":"天津市汇文中学数学社团"} }],
   ["/activities/", { loader: () => import(/* webpackChunkName: "activities_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/activities/index.html.js"), meta: {"title":"课堂时政"} }],
   ["/paper/", { loader: () => import(/* webpackChunkName: "paper_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/paper/index.html.js"), meta: {"title":"试卷题库"} }],
+  ["/LICENSE/", { loader: () => import(/* webpackChunkName: "LICENSE_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/LICENSE/index.html.js"), meta: {"title":""} }],
   ["/posts/archive1.html", { loader: () => import(/* webpackChunkName: "posts_archive1.html" */"G:/Maths/docs/.vuepress/.temp/pages/posts/archive1.html.js"), meta: {"_blog":{"title":"Archive Article1","author":"","date":"1998-01-01T00:00:00.000Z","category":["History"],"tag":["WWI"],"excerpt":"\n<h2>Heading 2</h2>\n<p>Here is the content.</p>\n<h3>Heading 3</h3>\n<p>Here is the content.</p>\n"},"title":"Archive Article1"} }],
   ["/posts/archive2.html", { loader: () => import(/* webpackChunkName: "posts_archive2.html" */"G:/Maths/docs/.vuepress/.temp/pages/posts/archive2.html.js"), meta: {"_blog":{"title":"Archive Article2","author":"","date":"1998-01-02T00:00:00.000Z","category":["History"],"tag":["WWII"],"excerpt":"\n<h2>Heading 2</h2>\n<p>Here is the content.</p>\n<h3>Heading 3</h3>\n<p>Here is the content.</p>\n"},"title":"Archive Article2"} }],
   ["/posts/article1.html", { loader: () => import(/* webpackChunkName: "posts_article1.html" */"G:/Maths/docs/.vuepress/.temp/pages/posts/article1.html.js"), meta: {"_blog":{"title":"Article 1","author":"","date":"2022-01-01T00:00:00.000Z","category":["Category A"],"tag":["tag A","tag B"],"excerpt":"\n<h2>Heading 2</h2>\n<p>Here is the content.</p>\n<h3>Heading 3</h3>\n<p>Here is the content.</p>\n"},"title":"Article 1"} }],
@@ -37,7 +38,6 @@ export const routes = Object.fromEntries([
   ["/tag/tag-e/", { loader: () => import(/* webpackChunkName: "tag_tag-e_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/tag/tag-e/index.html.js"), meta: {"title":"Tag tag E"} }],
   ["/article/", { loader: () => import(/* webpackChunkName: "article_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/article/index.html.js"), meta: {"title":"Articles"} }],
   ["/timeline/", { loader: () => import(/* webpackChunkName: "timeline_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/timeline/index.html.js"), meta: {"title":"Timeline"} }],
-  ["/LICENSE/", { loader: () => import(/* webpackChunkName: "LICENSE_index.html" */"G:/Maths/docs/.vuepress/.temp/pages/LICENSE/index.html.js"), meta: {"title":""} }],
 ]);
 
 if (import.meta.webpackHot) {

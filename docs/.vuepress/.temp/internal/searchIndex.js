@@ -109,6 +109,106 @@ export const SEARCH_INDEX = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "2025.10.22日",
+        "slug": "_2025-10-22日",
+        "link": "#_2025-10-22日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--积差等数对",
+            "slug": "小练习-积差等数对",
+            "link": "#小练习-积差等数对",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251022-1.pdf",
+            "slug": "下载链接-251022-1-pdf",
+            "link": "#下载链接-251022-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251022-1.pdf",
+            "slug": "备用链接-251022-1-pdf",
+            "link": "#备用链接-251022-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "小练习--动点+数轴",
+            "slug": "小练习-动点-数轴",
+            "link": "#小练习-动点-数轴",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251022-2.pdf",
+            "slug": "下载链接-251022-2-pdf",
+            "link": "#下载链接-251022-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251022-2.pdf",
+            "slug": "备用链接-251022-2-pdf",
+            "link": "#备用链接-251022-2-pdf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.10.29日",
+        "slug": "_2025-10-29日",
+        "link": "#_2025-10-29日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--代数式+找规律",
+            "slug": "小练习-代数式-找规律",
+            "link": "#小练习-代数式-找规律",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251029-1.pdf",
+            "slug": "下载链接-251029-1-pdf",
+            "link": "#下载链接-251029-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251029-1.pdf",
+            "slug": "备用链接-251029-1-pdf",
+            "link": "#备用链接-251029-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "小练习--动点+距离",
+            "slug": "小练习-动点-距离",
+            "link": "#小练习-动点-距离",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251029-2.pdf",
+            "slug": "下载链接-251029-2-pdf",
+            "link": "#下载链接-251029-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251029-2.pdf",
+            "slug": "备用链接-251029-2-pdf",
+            "link": "#备用链接-251029-2-pdf",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/activities/",
@@ -120,17 +220,10 @@ export const SEARCH_INDEX = [
     "headers": [
       {
         "level": 2,
-        "title": "2025.10.15日",
-        "slug": "_2025-10-15日",
-        "link": "#_2025-10-15日",
+        "title": "开团第一张卷子",
+        "slug": "开团第一张卷子",
+        "link": "#开团第一张卷子",
         "children": [
-          {
-            "level": 3,
-            "title": "开团第一张卷子",
-            "slug": "开团第一张卷子",
-            "link": "#开团第一张卷子",
-            "children": []
-          },
           {
             "level": 3,
             "title": "下载链接：251015.pdf",
@@ -144,11 +237,120 @@ export const SEARCH_INDEX = [
             "slug": "备用链接-251015-pdf",
             "link": "#备用链接-251015-pdf",
             "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "",
+            "link": "#",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "小练习--积差等数对",
+        "slug": "小练习-积差等数对",
+        "link": "#小练习-积差等数对",
+        "children": [
+          {
+            "level": 3,
+            "title": "下载链接：251022-1.pdf",
+            "slug": "下载链接-251022-1-pdf",
+            "link": "#下载链接-251022-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251022-1.pdf",
+            "slug": "备用链接-251022-1-pdf",
+            "link": "#备用链接-251022-1-pdf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "小练习--动点+数轴",
+        "slug": "小练习-动点-数轴",
+        "link": "#小练习-动点-数轴",
+        "children": [
+          {
+            "level": 3,
+            "title": "下载链接：251022-2.pdf",
+            "slug": "下载链接-251022-2-pdf",
+            "link": "#下载链接-251022-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251022-2.pdf",
+            "slug": "备用链接-251022-2-pdf",
+            "link": "#备用链接-251022-2-pdf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "",
+        "slug": "-1",
+        "link": "#-1",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "小练习--代数式+找规律",
+        "slug": "小练习-代数式-找规律",
+        "link": "#小练习-代数式-找规律",
+        "children": [
+          {
+            "level": 3,
+            "title": "下载链接：251029-1.pdf",
+            "slug": "下载链接-251029-1-pdf",
+            "link": "#下载链接-251029-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251029-1.pdf",
+            "slug": "备用链接-251029-1-pdf",
+            "link": "#备用链接-251029-1-pdf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "小练习--动点+距离",
+        "slug": "小练习-动点-距离",
+        "link": "#小练习-动点-距离",
+        "children": [
+          {
+            "level": 3,
+            "title": "下载链接：251029-2.pdf",
+            "slug": "下载链接-251029-2-pdf",
+            "link": "#下载链接-251029-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251029-2.pdf",
+            "slug": "备用链接-251029-2-pdf",
+            "link": "#备用链接-251029-2-pdf",
+            "children": []
           }
         ]
       }
     ],
     "path": "/paper/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/LICENSE/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -629,13 +831,6 @@ export const SEARCH_INDEX = [
     "title": "Timeline",
     "headers": [],
     "path": "/timeline/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/LICENSE/",
     "pathLocale": "/",
     "extraFields": []
   }

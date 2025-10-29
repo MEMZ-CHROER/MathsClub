@@ -1,7 +1,7 @@
 ---
 home: true
 title: 天津市汇文中学数学社团
-heroImage: https://img.baidu.re/i/2025/10/10u1e7e.png
+heroImage: https://i.ooxx.ooo/i/ZTE0M.png
 actions:
   - text: 课堂时政
     link: /activities/
@@ -23,5 +23,5 @@ features:
   - title: 联系我们
     details: 邮箱：lxy130523@outlook.com  微信：LxyCoding2147483647
 
-footer: MIT Licensed | Copyright © 1980 天津市汇文中学 , Copyright © 2025 Liuxiyu's Community All rights reserved.
+footer: MIT Licensed | Copyright © 1890 天津市汇文中学 , Copyright © 2025 Liuxiyu's Community All rights reserved.
 ---

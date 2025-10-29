@@ -13,17 +13,17 @@ export default defineUserConfig({
   description: '汇文中学数学社团--UnOfficial Made By 刘熙宇',
 
   theme: defaultTheme({
-    logo: 'https://img.baidu.re/i/2025/10/10y8zb4.png',
+    logo: 'https://i.ooxx.ooo/i/NmI5N.png',
 
     navbar: [
       '/',
       {
-        text: 'Article',
-        link: '/article/',
+        text: '课堂时政',
+        link: '/activities/',
       },
       {
-        text: 'Category',
-        link: '/category/',
+        text: '试卷题库',
+        link: '/paper/',
       },
       {
         text: 'Tag',
