@@ -209,9 +209,66 @@ export const SEARCH_INDEX = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.5日",
+        "slug": "_2025-11-5日",
+        "link": "#_2025-11-5日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--小棒问题",
+            "slug": "小练习-小棒问题",
+            "link": "#小练习-小棒问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251105-1.pdf",
+            "slug": "下载链接-251105-1-pdf",
+            "link": "#下载链接-251105-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251105-1.pdf",
+            "slug": "备用链接-251105-1-pdf",
+            "link": "#备用链接-251105-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "小练习--有理数找规律",
+            "slug": "小练习-有理数找规律",
+            "link": "#小练习-有理数找规律",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251105-2.pdf",
+            "slug": "下载链接-251105-2-pdf",
+            "link": "#下载链接-251105-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251105-2.pdf",
+            "slug": "备用链接-251105-2-pdf",
+            "link": "#备用链接-251105-2-pdf",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/activities/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/LICENSE/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -341,16 +398,66 @@ export const SEARCH_INDEX = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "",
+        "slug": "-2",
+        "link": "#-2",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "2025.11.5日",
+        "slug": "_2025-11-5日",
+        "link": "#_2025-11-5日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--小棒问题",
+            "slug": "小练习-小棒问题",
+            "link": "#小练习-小棒问题",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251105-1.pdf",
+            "slug": "下载链接-251105-1-pdf",
+            "link": "#下载链接-251105-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251105-1.pdf",
+            "slug": "备用链接-251105-1-pdf",
+            "link": "#备用链接-251105-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "小练习--有理数找规律",
+            "slug": "小练习-有理数找规律",
+            "link": "#小练习-有理数找规律",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251105-2.pdf",
+            "slug": "下载链接-251105-2-pdf",
+            "link": "#下载链接-251105-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251105-2.pdf",
+            "slug": "备用链接-251105-2-pdf",
+            "link": "#备用链接-251105-2-pdf",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/paper/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "",
-    "headers": [],
-    "path": "/LICENSE/",
     "pathLocale": "/",
     "extraFields": []
   },

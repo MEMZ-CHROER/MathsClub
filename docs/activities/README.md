@@ -30,3 +30,12 @@
 ![202510292](https://i.ooxx.ooo/i/MDY2M.jpg)
 ### 下载链接：[251029-2.pdf](https://liuxiyu.lanzouu.com/ioNSx39ndf2b)
 ### 备用链接：[251029-2.pdf](https://liuxiyu.lanzoum.com/ioNSx39ndf2b)
+## 2025.11.5日
+### 小练习--小棒问题
+![202511051](https://s21.ax1x.com/2025/11/05/pZSXAht.jpg)
+### 下载链接：[251105-1.pdf](https://liuxiyu.lanzouu.com/ib3ym3a81okh)
+### 备用链接：[251105-1.pdf](https://liuxiyu.lanzoux.com/ib3ym3a81okh)
+### 小练习--有理数找规律
+![202511052](https://s21.ax1x.com/2025/11/05/pZSXktI.jpg)
+### 下载链接：[251105-2.pdf](https://liuxiyu.lanzouu.com/iXwjT3a81omj)
+### 备用链接：[251105-2.pdf](https://liuxiyu.lanzoum.com/iXwjT3a81omj)
