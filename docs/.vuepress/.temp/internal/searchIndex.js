@@ -259,6 +259,120 @@ export const SEARCH_INDEX = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.12日",
+        "slug": "_2025-11-12日",
+        "link": "#_2025-11-12日",
+        "children": [
+          {
+            "level": 3,
+            "title": "卷子--割圆术",
+            "slug": "卷子-割圆术",
+            "link": "#卷子-割圆术",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "",
+            "link": "#",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第一张",
+            "slug": "下载链接-第一张",
+            "link": "#下载链接-第一张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第一张",
+            "slug": "备用链接-第一张",
+            "link": "#备用链接-第一张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-1",
+            "link": "#-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第二张",
+            "slug": "下载链接-第二张",
+            "link": "#下载链接-第二张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第二张",
+            "slug": "备用链接-第二张",
+            "link": "#备用链接-第二张",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.19日",
+        "slug": "_2025-11-19日",
+        "link": "#_2025-11-19日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--密码学",
+            "slug": "小练习-密码学",
+            "link": "#小练习-密码学",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-2",
+            "link": "#-2",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第一张",
+            "slug": "下载链接-第一张-1",
+            "link": "#下载链接-第一张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第一张",
+            "slug": "备用链接-第一张-1",
+            "link": "#备用链接-第一张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-3",
+            "link": "#-3",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第二张",
+            "slug": "下载链接-第二张-1",
+            "link": "#下载链接-第二张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第二张",
+            "slug": "备用链接-第二张-1",
+            "link": "#备用链接-第二张-1",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/activities/",
@@ -323,6 +437,13 @@ export const SEARCH_INDEX = [
             "slug": "备用链接-251022-1-pdf",
             "link": "#备用链接-251022-1-pdf",
             "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-1",
+            "link": "#-1",
+            "children": []
           }
         ]
       },
@@ -345,15 +466,15 @@ export const SEARCH_INDEX = [
             "slug": "备用链接-251022-2-pdf",
             "link": "#备用链接-251022-2-pdf",
             "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-2",
+            "link": "#-2",
+            "children": []
           }
         ]
-      },
-      {
-        "level": 2,
-        "title": "",
-        "slug": "-1",
-        "link": "#-1",
-        "children": []
       },
       {
         "level": 2,
@@ -373,6 +494,13 @@ export const SEARCH_INDEX = [
             "title": "备用链接：251029-1.pdf",
             "slug": "备用链接-251029-1-pdf",
             "link": "#备用链接-251029-1-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-3",
+            "link": "#-3",
             "children": []
           }
         ]
@@ -396,15 +524,15 @@ export const SEARCH_INDEX = [
             "slug": "备用链接-251029-2-pdf",
             "link": "#备用链接-251029-2-pdf",
             "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-4",
+            "link": "#-4",
+            "children": []
           }
         ]
-      },
-      {
-        "level": 2,
-        "title": "",
-        "slug": "-2",
-        "link": "#-2",
-        "children": []
       },
       {
         "level": 2,
@@ -435,6 +563,13 @@ export const SEARCH_INDEX = [
           },
           {
             "level": 3,
+            "title": "",
+            "slug": "-5",
+            "link": "#-5",
+            "children": []
+          },
+          {
+            "level": 3,
             "title": "小练习--有理数找规律",
             "slug": "小练习-有理数找规律",
             "link": "#小练习-有理数找规律",
@@ -452,6 +587,127 @@ export const SEARCH_INDEX = [
             "title": "备用链接：251105-2.pdf",
             "slug": "备用链接-251105-2-pdf",
             "link": "#备用链接-251105-2-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-6",
+            "link": "#-6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.12日",
+        "slug": "_2025-11-12日",
+        "link": "#_2025-11-12日",
+        "children": [
+          {
+            "level": 3,
+            "title": "卷子--割圆术",
+            "slug": "卷子-割圆术",
+            "link": "#卷子-割圆术",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第一张",
+            "slug": "下载链接-第一张",
+            "link": "#下载链接-第一张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第一张",
+            "slug": "备用链接-第一张",
+            "link": "#备用链接-第一张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-7",
+            "link": "#-7",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第二张",
+            "slug": "下载链接-第二张",
+            "link": "#下载链接-第二张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第二张",
+            "slug": "备用链接-第二张",
+            "link": "#备用链接-第二张",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-8",
+            "link": "#-8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.19日",
+        "slug": "_2025-11-19日",
+        "link": "#_2025-11-19日",
+        "children": [
+          {
+            "level": 3,
+            "title": "小练习--密码学",
+            "slug": "小练习-密码学",
+            "link": "#小练习-密码学",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第一张",
+            "slug": "下载链接-第一张-1",
+            "link": "#下载链接-第一张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第一张",
+            "slug": "备用链接-第一张-1",
+            "link": "#备用链接-第一张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-9",
+            "link": "#-9",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：第二张",
+            "slug": "下载链接-第二张-1",
+            "link": "#下载链接-第二张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：第二张",
+            "slug": "备用链接-第二张-1",
+            "link": "#备用链接-第二张-1",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-10",
+            "link": "#-10",
             "children": []
           }
         ]

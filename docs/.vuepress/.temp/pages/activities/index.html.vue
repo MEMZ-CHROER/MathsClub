@@ -39,6 +39,24 @@
 <p><img src="https://s21.ax1x.com/2025/11/05/pZSXktI.jpg" alt="202511052"></p>
 <h3 id="下载链接-251105-2-pdf" tabindex="-1"><a class="header-anchor" href="#下载链接-251105-2-pdf"><span>下载链接：<a href="https://liuxiyu.lanzouu.com/iXwjT3a81omj" target="_blank" rel="noopener noreferrer">251105-2.pdf</a></span></a></h3>
 <h3 id="备用链接-251105-2-pdf" tabindex="-1"><a class="header-anchor" href="#备用链接-251105-2-pdf"><span>备用链接：<a href="https://liuxiyu.lanzoum.com/iXwjT3a81omj" target="_blank" rel="noopener noreferrer">251105-2.pdf</a></span></a></h3>
+<hr>
+<h2 id="_2025-11-12日" tabindex="-1"><a class="header-anchor" href="#_2025-11-12日"><span>2025.11.12日</span></a></h2>
+<h3 id="卷子-割圆术" tabindex="-1"><a class="header-anchor" href="#卷子-割圆术"><span>卷子--割圆术</span></a></h3>
+<h3 id="" tabindex="-1"><a class="header-anchor" href="#"><span><img src="https://s21.ax1x.com/2025/11/22/pZkGy9K.jpg" alt="202511121"></span></a></h3>
+<h3 id="下载链接-第一张" tabindex="-1"><a class="header-anchor" href="#下载链接-第一张"><span>下载链接：<a href="https://liuxiyu.lanzouu.com/iIKrA3bvq0ah" target="_blank" rel="noopener noreferrer">第一张</a></span></a></h3>
+<h3 id="备用链接-第一张" tabindex="-1"><a class="header-anchor" href="#备用链接-第一张"><span>备用链接：<a href="https://liuxiyu.lanzouu.com/iIKrA3bvq0ah" target="_blank" rel="noopener noreferrer">第一张</a></span></a></h3>
+<h3 id="-1" tabindex="-1"><a class="header-anchor" href="#-1"><span><img src="https://s21.ax1x.com/2025/11/22/pZkG61O.jpg" alt="202511122"></span></a></h3>
+<h3 id="下载链接-第二张" tabindex="-1"><a class="header-anchor" href="#下载链接-第二张"><span>下载链接：<a href="https://liuxiyu.lanzouu.com/itE723bvq0cj" target="_blank" rel="noopener noreferrer">第二张</a></span></a></h3>
+<h3 id="备用链接-第二张" tabindex="-1"><a class="header-anchor" href="#备用链接-第二张"><span>备用链接：<a href="https://liuxiyu.lanzouu.com/itE723bvq0cj" target="_blank" rel="noopener noreferrer">第二张</a></span></a></h3>
+<hr>
+<h2 id="_2025-11-19日" tabindex="-1"><a class="header-anchor" href="#_2025-11-19日"><span>2025.11.19日</span></a></h2>
+<h3 id="小练习-密码学" tabindex="-1"><a class="header-anchor" href="#小练习-密码学"><span>小练习--密码学</span></a></h3>
+<h3 id="-2" tabindex="-1"><a class="header-anchor" href="#-2"><span><img src="https://s21.ax1x.com/2025/11/22/pZkG1kq.jpg" alt="202511191"></span></a></h3>
+<h3 id="下载链接-第一张-1" tabindex="-1"><a class="header-anchor" href="#下载链接-第一张-1"><span>下载链接：<a href="https://liuxiyu.lanzouu.com/i0VOh3bvq01i" target="_blank" rel="noopener noreferrer">第一张</a></span></a></h3>
+<h3 id="备用链接-第一张-1" tabindex="-1"><a class="header-anchor" href="#备用链接-第一张-1"><span>备用链接：<a href="https://liuxiyu.lanzouu.com/i0VOh3bvq01i" target="_blank" rel="noopener noreferrer">第一张</a></span></a></h3>
+<h3 id="-3" tabindex="-1"><a class="header-anchor" href="#-3"><span><img src="https://s21.ax1x.com/2025/11/22/pZkG3t0.jpg" alt="202511192"></span></a></h3>
+<h3 id="下载链接-第二张-1" tabindex="-1"><a class="header-anchor" href="#下载链接-第二张-1"><span>下载链接：<a href="https://liuxiyu.lanzouu.com/iKaMM3bvq06d" target="_blank" rel="noopener noreferrer">第二张</a></span></a></h3>
+<h3 id="备用链接-第二张-1" tabindex="-1"><a class="header-anchor" href="#备用链接-第二张-1"><span>备用链接：<a href="https://liuxiyu.lanzouu.com/iKaMM3bvq06d" target="_blank" rel="noopener noreferrer">第二张</a></span></a></h3>
 </div></template>
 
 

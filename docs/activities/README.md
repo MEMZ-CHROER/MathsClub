@@ -39,3 +39,21 @@
 ![202511052](https://s21.ax1x.com/2025/11/05/pZSXktI.jpg)
 ### 下载链接：[251105-2.pdf](https://liuxiyu.lanzouu.com/iXwjT3a81omj)
 ### 备用链接：[251105-2.pdf](https://liuxiyu.lanzoum.com/iXwjT3a81omj)
+---
+## 2025.11.12日
+### 卷子--割圆术
+### ![202511121](https://s21.ax1x.com/2025/11/22/pZkGy9K.jpg)
+### 下载链接：[第一张](https://liuxiyu.lanzouu.com/iIKrA3bvq0ah)
+### 备用链接：[第一张](https://liuxiyu.lanzouu.com/iIKrA3bvq0ah)
+### ![202511122](https://s21.ax1x.com/2025/11/22/pZkG61O.jpg)
+### 下载链接：[第二张](https://liuxiyu.lanzouu.com/itE723bvq0cj)
+### 备用链接：[第二张](https://liuxiyu.lanzouu.com/itE723bvq0cj)
+---
+## 2025.11.19日
+### 小练习--密码学
+### ![202511191](https://s21.ax1x.com/2025/11/22/pZkG1kq.jpg)
+### 下载链接：[第一张](https://liuxiyu.lanzouu.com/i0VOh3bvq01i)
+### 备用链接：[第一张](https://liuxiyu.lanzouu.com/i0VOh3bvq01i)
+### ![202511192](https://s21.ax1x.com/2025/11/22/pZkG3t0.jpg)
+### 下载链接：[第二张](https://liuxiyu.lanzouu.com/iKaMM3bvq06d)
+### 备用链接：[第二张](https://liuxiyu.lanzouu.com/iKaMM3bvq06d)
