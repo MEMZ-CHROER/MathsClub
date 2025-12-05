@@ -373,6 +373,78 @@ export const SEARCH_INDEX = [
             "children": []
           }
         ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.26日",
+        "slug": "_2025-11-26日",
+        "link": "#_2025-11-26日",
+        "children": [
+          {
+            "level": 3,
+            "title": "大卷子--一元一次方程的实际应用",
+            "slug": "大卷子-一元一次方程的实际应用",
+            "link": "#大卷子-一元一次方程的实际应用",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-4",
+            "link": "#-4",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251126.pdf",
+            "slug": "下载链接-251126-pdf",
+            "link": "#下载链接-251126-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251126.pdf",
+            "slug": "备用链接-251126-pdf",
+            "link": "#备用链接-251126-pdf",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.12.3日",
+        "slug": "_2025-12-3日",
+        "link": "#_2025-12-3日",
+        "children": [
+          {
+            "level": 3,
+            "title": "大卷子--数轴与绝对值",
+            "slug": "大卷子-数轴与绝对值",
+            "link": "#大卷子-数轴与绝对值",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-5",
+            "link": "#-5",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251203.pdf",
+            "slug": "下载链接-251203-pdf",
+            "link": "#下载链接-251203-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251203.pdf",
+            "slug": "备用链接-251203-pdf",
+            "link": "#备用链接-251203-pdf",
+            "children": []
+          }
+        ]
       }
     ],
     "path": "/activities/",
@@ -708,6 +780,78 @@ export const SEARCH_INDEX = [
             "title": "",
             "slug": "-10",
             "link": "#-10",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.11.26日",
+        "slug": "_2025-11-26日",
+        "link": "#_2025-11-26日",
+        "children": [
+          {
+            "level": 3,
+            "title": "大卷子--一元一次方程的实际应用",
+            "slug": "大卷子-一元一次方程的实际应用",
+            "link": "#大卷子-一元一次方程的实际应用",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251126.pdf",
+            "slug": "下载链接-251126-pdf",
+            "link": "#下载链接-251126-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251126.pdf",
+            "slug": "备用链接-251126-pdf",
+            "link": "#备用链接-251126-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-11",
+            "link": "#-11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "title": "2025.12.3日",
+        "slug": "_2025-12-3日",
+        "link": "#_2025-12-3日",
+        "children": [
+          {
+            "level": 3,
+            "title": "大卷子--数轴与绝对值",
+            "slug": "大卷子-数轴与绝对值",
+            "link": "#大卷子-数轴与绝对值",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "下载链接：251203.pdf",
+            "slug": "下载链接-251203-pdf",
+            "link": "#下载链接-251203-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "备用链接：251203.pdf",
+            "slug": "备用链接-251203-pdf",
+            "link": "#备用链接-251203-pdf",
+            "children": []
+          },
+          {
+            "level": 3,
+            "title": "",
+            "slug": "-12",
+            "link": "#-12",
             "children": []
           }
         ]

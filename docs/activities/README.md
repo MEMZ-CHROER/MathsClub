@@ -57,3 +57,15 @@
 ### ![202511192](https://s21.ax1x.com/2025/11/22/pZkG3t0.jpg)
 ### 下载链接：[第二张](https://liuxiyu.lanzouu.com/iKaMM3bvq06d)
 ### 备用链接：[第二张](https://liuxiyu.lanzouu.com/iKaMM3bvq06d)
+---
+## 2025.11.26日
+### 大卷子--一元一次方程的实际应用
+### ![20251126](https://s41.ax1x.com/2025/12/05/pZmMUNn.jpg)
+### 下载链接：[251126.pdf](https://liuxiyu.lanzouu.com/iHsIh3cxsqsb)
+### 备用链接：[251126.pdf](https://liuxiyu.lanzouw.com/iHsIh3cxsqsb)
+---
+## 2025.12.3日
+### 大卷子--数轴与绝对值
+### ![20251203](https://s41.ax1x.com/2025/12/05/pZmMbEd.jpg)
+### 下载链接：[251203.pdf](https://liuxiyu.lanzouu.com/iiVO93cxsqtc)
+### 备用链接：[251203.pdf](https://liuxiyu.lanzouw.com/iiVO93cxsqtc)
