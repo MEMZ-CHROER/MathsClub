@@ -9,7 +9,8 @@
     "clean-dev": "vuepress dev docs --clean-cache",
     "dev": "vuepress dev docs",
     "update": "npx vp-update",
-    "install_and_dev": "npm install --force && npm audit fix --force && npm fund && npm run dev"
+    "install_and_dev": "npm install --force && npm audit fix --force && npm fund && npm run dev",
+    "package": "npm install --force && npm audit fix --force && npm fund"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.26",
